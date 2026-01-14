@@ -2,3 +2,4 @@ sunday
 tuesday
 thursday
 monday
+wednesday
